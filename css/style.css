@@ -1,0 +1,15 @@
+#header{color: darkgreen;}
+h1{
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1552875564/photo/tablet-code-hologram-and-business-woman-in-data-analysis-digital-technology-or-software.webp?b=1&s=170667a&w=0&k=20&c=Se1m-NVDeYWbP-mOs6Iib1iOgbqzy3na6naQUiu56f4=");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+
+}
+.wrapper{color: rgb(61, 110, 200);}
